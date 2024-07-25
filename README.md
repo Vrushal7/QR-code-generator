@@ -1,1 +1,1 @@
-Using python to generate QR code.
+QR code generated using python
