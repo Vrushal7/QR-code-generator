@@ -1,6 +1,6 @@
-import qr_code
+import qrcode
 
-img = qr_code.make("https://www.linkedin.com/in/vrushal-more-018a252b2/")
+img = qrcode.make("https://www.linkedin.com/in/vrushal-more-018a252b2/")
 img.save("vrushal_linkedin.png")
 
 
