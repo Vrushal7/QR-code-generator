@@ -6,4 +6,4 @@ qr.add_data("https://www.linkedin.com/in/vrushal-more-018a252b2/")
 qr.make(fit=True)
 
 img = qr.make_image(fill='green', back_color='black')
-img.save("vrushal_linkedin_color.png")
+img.save("vrushal_linkedin_color_new.png")
